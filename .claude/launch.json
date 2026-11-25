@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "today", "runtimeExecutable": "node", "runtimeArgs": [".claude/serve.js", "5180"], "port": 5180 }
+  ]
+}

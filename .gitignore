@@ -1,0 +1,6 @@
+.claude/settings.local.json
+.superpowers/
+node_modules/
+today-backup-*.json
+.DS_Store
+Thumbs.db
